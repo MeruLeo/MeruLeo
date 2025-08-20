@@ -1,13 +1,14 @@
-# 👋 سلام! من امیرعلی‌ام  
+# 👋 Hi there, I'm Amirali  
 
-🚀 Fullstack Developer | عاشق ساخت اپلیکیشن‌های مدرن و مقیاس‌پذیر  
+🚀 Fullstack Web Developer | Passionate about blending **Art & Technology** to create impactful digital experiences  
 
-💡 تخصص من روی **React, Next.js, Node.js, MongoDB** هست و همیشه دنبال یادگیری عمیق‌تر و ساخت محصولاتی با تجربه کاربری عالی‌ام.  
-🌍 هدفم همکاری روی پروژه‌های چالش‌برانگیز و تاثیرگذار در سطح جهانیه.  
+💡 Specialized in **React, Next.js, Node.js, and MongoDB**, with a strong focus on crafting seamless user interfaces and scalable architectures.  
+🎨 My philosophy: *Technology should not only work — it should feel like art.*  
+🌍 Always eager to take on challenging projects, contribute to impactful solutions, and grow as a developer.  
 
 ---
 
-## 🛠️ مهارت‌ها و تکنولوژی‌ها
+## 🛠️ Tech Stack
 
 <p align="center">
   <!-- Frontend -->
@@ -32,7 +33,7 @@
 
 ---
 
-## 📊 آمار و فعالیت‌ها
+## 📊 GitHub Stats
 
 <p align="center">
   
@@ -50,18 +51,20 @@
 
 ---
 
-## 🚀 پروژه‌های شاخص
-- [**Lumina Management Dashboard**](https://my.luminemodels.ir) – داشبورد مدیریتی حرفه‌ای برای آژانس تبلیغاتی (Next.js, Express, MongoDB)  
-- [**Lumina Landing Page**](https://luminemodels.ir) – صفحه لندینگ مدرن با انیمیشن و بهینه‌سازی کامل (Next.js, Zustand, MongoDB)  
-- [**OstadanWeb Platform**](https://ostadanweb.com) – سیستم مدیریت کاربران و تیکتینگ آموزشی (Next.js, Express.js, MongoDB)  
+## 🚀 Featured Projects
+- [**Lumine Management Dashboard**](https://my.luminemodels.ir) – A full-featured project management dashboard for an advertising agency  
+  *(Next.js, TypeScript, Express.js, MongoDB)*  
+
+- [**Lumine Landing Page**](https://luminemodels.ir) – A modern, responsive landing page with smooth animations and optimized performance  
+  *(Next.js, Zustand, MongoDB)*  
 
 ---
 
-## 📬 ارتباط با من
-- 📧 ایمیل: **amiraliallahverdi1@gmail.com**  
+## 📬 Get in Touch
+- 📧 Email: **amiraliallahverdi1@gmail.com**  
 - 💼 [LinkedIn](https://linkedin.com/in/amiraliallahverdi)  
 - 🌐 [Portfolio Website](https://...)  
 
 ---
 
-✨ *"کدنویسی برای من فقط شغل نیست، بلکه ابزاریه برای خلق تجربه‌های ماندگار و ارزشمند."*  
+✨ *"Coding is not just logic — it's where **Art meets Technology**."*  
