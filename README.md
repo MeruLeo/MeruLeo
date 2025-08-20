@@ -62,8 +62,7 @@
 
 ## 📬 Get in Touch
 - 📧 Email: **amiraliallahverdi1@gmail.com**  
-- 💼 [LinkedIn](https://linkedin.com/in/amiraliallahverdi)  
-- 🌐 [Portfolio Website](https://...)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/amirali-allahverdi-628397329)  
 
 ---
 
