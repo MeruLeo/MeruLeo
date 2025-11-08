@@ -1,10 +1,9 @@
 # 👋 Hi there, I'm Amirali  
 
-🚀 Fullstack Web Developer | Passionate about blending **Art & Technology** to create impactful digital experiences  
-
-💡 Specialized in **React, Next.js, Node.js, and MongoDB**, with a strong focus on crafting seamless user interfaces and scalable architectures.  
-🎨 My philosophy: *Technology should not only work — it should feel like art.*  
-🌍 Always eager to take on challenging projects, contribute to impactful solutions, and grow as a developer.  
+🚀 Fullstack Web Developer — blending Art & Technology to craft meaningful digital experiences.
+💡 Skilled in React, Next.js, Node.js, and MongoDB, focused on clean UI and scalable backend design.
+🎨 Technology shouldn’t just work — it should feel like art.
+🌍 Open to challenging projects and opportunities to build impactful products.
 
 ---
 
@@ -51,17 +50,8 @@
 
 ---
 
-## 🚀 Featured Projects
-- [**Lumine Management Dashboard**](https://my.luminemodels.ir) – A full-featured project management dashboard for an advertising agency  
-  *(Next.js, TypeScript, Express.js, MongoDB)*  
-
-- [**Lumine Landing Page**](https://luminemodels.ir) – A modern, responsive landing page with smooth animations and optimized performance  
-  *(Next.js, Zustand, MongoDB)*  
-
----
-
 ## 📬 Get in Touch
-- 📧 Email: **amiraliallahverdi1@gmail.com**  
+- 📧 Email: **amirali.pro.js@gmail.com**  
 - 💼 [LinkedIn](https://www.linkedin.com/in/amirali-allahverdi-628397329)  
 
 ---
