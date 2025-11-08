@@ -35,24 +35,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  
-  <!-- Streak -->
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=MeruLeo&border_radius=30&theme=radical" alt="GitHub Streak" />
-  </a>
-  
-  <!-- Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=MeruLeo&show_icons=true&theme=radical&border_radius=20" alt="GitHub Stats" height="180" />
-  
-  <!-- Top Langs -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeruLeo&layout=compact&theme=radical&border_radius=20" alt="Top Langs" height="180" />
-</p>
-
----
-
 ## 📬 Get in Touch
 - 📧 Email: **amirali.pro.js@gmail.com**  
 - 💼 [LinkedIn](https://www.linkedin.com/in/amirali-allahverdi-628397329)  
