@@ -1,12 +1,7 @@
 # 👋 Hi there, I'm Amirali  
 
-🚀 Fullstack Web Developer — blending Art & Technology to craft meaningful digital experiences.
-
-💡 Skilled in React, Next.js, Node.js, and MongoDB, focused on clean UI and scalable backend design.
-
-🎨 Technology shouldn’t just work — it should feel like art.
-
-🌍 Open to challenging projects and opportunities to build impactful products.
+Fullstack Web Developer — blending Art & Technology to craft meaningful digital experiences. <br />
+Skilled in React, Next.js, Node.js, and MongoDB, focused on clean UI and scalable backend design.
 
 ---
 
