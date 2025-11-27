@@ -43,7 +43,3 @@ Pazhoohan (just Back-end): https://github.com/weby-next/pazhoohan
 ## 📬 Get in Touch
 - 📧 Email: **amirali.pro.js@gmail.com**  
 - 💼 [LinkedIn](https://www.linkedin.com/in/amirali-allahverdi-628397329)  
-
----
-
-✨ *"Coding is not just logic — it's where **Art meets Technology**."*  
