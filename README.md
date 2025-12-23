@@ -9,6 +9,7 @@ Skilled in React, Next.js, Node.js, and MongoDB, focused on clean UI and scalabl
 They’re still in progress, but a good reflection of my current skills
 
 Netiko: https://github.com/MeruLeo/netiko <br />
+Lihtech: https://github.com/MeruLeo/lihtech <br />
 CMS: https://github.com/MeruLeo/cms <br />
 Pazhoohan (just Back-end): https://github.com/weby-next/pazhoohan
 
